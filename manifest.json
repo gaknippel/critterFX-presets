@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-02-21",
+  "presets": [
+    {
+      "id": 1,
+      "name": "sticker script",
+      "category": "scripts",
+      "fileName": "stickerscript.jsx",
+      "downloadUrl": "https://raw.githubusercontent.com/gaknippel/critterFX-presets/main/scripts/stickerscript.jsx",
+      "previewGif": "https://raw.githubusercontent.com/gaknippel/critterFX-presets/main/previews/stickerscript.gif",
+      "fileSize": "3.2 KB",
+      "aeVersion": "2023 or later",
+      "author": "Your Name",
+      "description": "Creates animated stickers covering the screen",
+      "longDescription": "This script creates a dynamic sticker animation effect that covers your composition with customizable stickers. Control density, size, rotation, and animation timing.",
+      "dependencies": ["None"],
+      "tags": ["script", "stickers", "animation", "fun"]
+    }
+  ]
+}
