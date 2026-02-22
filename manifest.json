@@ -11,10 +11,10 @@
       "previewGif": "https://raw.githubusercontent.com/gaknippel/critterFX-presets/main/previews/stickerscript.gif",
       "fileSize": "3.2 KB",
       "aeVersion": "2023 or later",
-      "author": "Your Name",
-      "description": "Creates animated stickers covering the screen",
-      "longDescription": "This script creates a dynamic sticker animation effect that covers your composition with customizable stickers. Control density, size, rotation, and animation timing.",
-      "dependencies": ["None"],
+      "author": "crittercast",
+      "description": "animated stickers covering the screen!",
+      "longDescription": "covers the screen with stickers. you can change the amount, animation time, size, rotation, etc.",
+      "dependencies": ["none"],
       "tags": ["script", "stickers", "animation", "fun"]
     }
   ]
