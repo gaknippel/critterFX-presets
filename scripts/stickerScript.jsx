@@ -12,7 +12,7 @@ function main() {
         alert("Layer named 'STICKER' not found.");
         return;
     }
-
+    //hello
     //user controls
     var STICKER_COUNT = 90;     // increase for denser coverage
     var ANIM_DURATION = 0.09;    // scale animation length (seconds)
