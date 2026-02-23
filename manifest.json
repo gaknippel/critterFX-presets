@@ -17,5 +17,20 @@
       "dependencies": ["none"],
       "tags": ["script", "stickers", "animation", "fun"]
     }
+    {
+      "id": 2,
+      "name": "card reveal",
+      "category": "shape animations",
+      "fileName": "cardReveal.ffx",
+      "downloadUrl": "https://raw.githubusercontent.com/gaknippel/critterFX-presets/main/presets/shapeAnims/cardReveal.ffx",
+      "previewGif": "https://raw.githubusercontent.com/gaknippel/critterFX-presets/main/previews/cardReveal.gif",
+      "fileSize": "19.4 KB",
+      "aeVersion": "2023 or later",
+      "author": "crittercast",
+      "description": "card reveal for 3d objects!",
+      "longDescription": "make a shiny card reveal animation for display 3D stuff!",
+      "dependencies": ["none"],
+      "tags": ["preset", "3D", "reveal", "card"]
+    }
   ]
 }
