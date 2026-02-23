@@ -16,7 +16,7 @@
       "longDescription": "covers the screen with stickers. you can change the amount, animation time, size, rotation, etc.",
       "dependencies": ["none"],
       "tags": ["script", "stickers", "animation", "fun"]
-    }
+    },
     {
       "id": 2,
       "name": "card reveal",
