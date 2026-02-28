@@ -20,7 +20,7 @@
     {
       "id": 2,
       "name": "card reveal",
-      "category": "shape animations",
+      "category": "shapeAnims",
       "fileName": "cardReveal.ffx",
       "downloadUrl": "https://raw.githubusercontent.com/gaknippel/critterFX-presets/main/presets/shapeAnims/cardReveal.ffx",
       "previewGif": "https://raw.githubusercontent.com/gaknippel/critterFX-presets/main/previews/cardReveal.gif",
