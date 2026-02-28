@@ -28,9 +28,24 @@
       "aeVersion": "2023 or later",
       "author": "crittercast",
       "description": "card reveal for 3d objects!",
-      "longDescription": "make a shiny card reveal animation for display 3D stuff!",
+      "longDescription": "make a shiny card reveal animation for displaying 3D stuff!",
       "dependencies": ["none"],
       "tags": ["preset", "3D", "reveal", "card"]
+    },
+    {
+      "id": 3,
+      "name": "fractal wiggle",
+      "category": "effects",
+      "fileName": "fractalNoiseforwiggle.ffx",
+      "downloadUrl": "https://raw.githubusercontent.com/gaknippel/critterFX-presets/main/presets/effects/fractalNoiseforwiggle.ffx",
+      "previewGif": "https://raw.githubusercontent.com/gaknippel/critterFX-presets/main/previews/fractalNoiseWiggle.gif",
+      "fileSize": "21.5 KB",
+      "aeVersion": "2020 or later",
+      "author": "crittercast",
+      "description": "apply to solid for fractal noise with a wiggle",
+      "longDescription": "meant to be used with a displacement map to wiggle any object.",
+      "dependencies": ["none"],
+      "tags": ["preset", "wiggle", "displacement map", "noise"]
     }
   ]
 }
