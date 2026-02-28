@@ -46,6 +46,21 @@
       "longDescription": "meant to be used with a displacement map to wiggle any object.",
       "dependencies": ["none"],
       "tags": ["preset", "wiggle", "displacement map", "noise"]
+    },
+    {
+      "id": 4,
+      "name": "topographic background",
+      "category": "backgrounds",
+      "fileName": "topographicBG.ffx",
+      "downloadUrl": "https://raw.githubusercontent.com/gaknippel/critterFX-presets/main/presets/backgrounds/topographicBG.ffx",
+      "previewGif": "https://raw.githubusercontent.com/gaknippel/critterFX-presets/main/previews/topographicBG.gif",
+      "fileSize": "30.4 KB",
+      "aeVersion": "2020 or later",
+      "author": "crittercast",
+      "description": "a topographic map style background layer.",
+      "longDescription": "apply to a solid black layer to use this effect. you can increase the size to your liking in the fractal noise settings. you can also change the color using a tint effect.",
+      "dependencies": ["none"],
+      "tags": ["preset", "background", "topographic"]
     }
   ]
 }
