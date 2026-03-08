@@ -43,7 +43,7 @@
       "aeVersion": "2020 or later",
       "author": "crittercast",
       "description": "apply to solid for fractal noise with a wiggle",
-      "longDescription": "meant to be used with a displacement map to wiggle any object.",
+      "longDescription": "meant to be used with a displacement map to wiggle any object",
       "dependencies": ["none"],
       "tags": ["preset", "wiggle", "displacement map", "noise"]
     },
@@ -58,7 +58,7 @@
       "aeVersion": "2020 or later",
       "author": "crittercast",
       "description": "a topographic map style background layer.",
-      "longDescription": "apply to a solid black layer to use this effect. you can increase the size to your liking in the fractal noise settings. you can also change the color using a tint effect.",
+      "longDescription": "apply to a solid black layer to use this effect. you can increase the size to your liking in the fractal noise settings. you can also change the color using a tint effect",
       "dependencies": ["none"],
       "tags": ["preset", "background", "topographic"]
     },
@@ -73,9 +73,24 @@
       "aeVersion": "2020 or later",
       "author": "crittercast",
       "description": "splits the text into single chars to smoothly go up.",
-      "longDescription": "you can control if it splits into characters, words, etc. in the text options on a text layer..",
+      "longDescription": "you can control if it splits into characters, words, etc. in the text options on a text layer",
       "dependencies": ["none"],
       "tags": ["text", "split", "smooth"]
+    },
+    {
+      "id": 6,
+      "name": "animated gradient",
+      "category": "backgrounds",
+      "fileName": "animatedGradient.aep",
+      "downloadUrl": "https://raw.githubusercontent.com/gaknippel/critterFX-presets/main/presets/backgrounds/animatedGradient.aep",
+      "previewGif": "https://raw.githubusercontent.com/gaknippel/critterFX-presets/main/previews/animatedGradient.gif",
+      "fileSize": "129.0 KB",
+      "aeVersion": "2024 or later",
+      "author": "crittercast",
+      "description": "cool animated 4 color gradient background",
+      "longDescription": "customizable, use slider control in the null object to control speed, and change gradient settings to change color",
+      "dependencies": ["none"],
+      "tags": ["background", "gradient", "colorful"]
     }
   ]
 }
