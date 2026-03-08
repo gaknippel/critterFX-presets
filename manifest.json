@@ -61,6 +61,21 @@
       "longDescription": "apply to a solid black layer to use this effect. you can increase the size to your liking in the fractal noise settings. you can also change the color using a tint effect.",
       "dependencies": ["none"],
       "tags": ["preset", "background", "topographic"]
+    },
+    {
+      "id": 5,
+      "name": "split text",
+      "category": "textAnims",
+      "fileName": "splitText.ffx",
+      "downloadUrl": "https://raw.githubusercontent.com/gaknippel/critterFX-presets/main/presets/textAnims/splitText.ffx",
+      "previewGif": "https://raw.githubusercontent.com/gaknippel/critterFX-presets/main/previews/splitText.gif",
+      "fileSize": "82.0 KB",
+      "aeVersion": "2020 or later",
+      "author": "crittercast",
+      "description": "splits the text into single chars to smoothly go up.",
+      "longDescription": "you can control if it splits into characters, words, etc. in the text options on a text layer..",
+      "dependencies": ["none"],
+      "tags": ["text", "split", "smooth"]
     }
   ]
 }
