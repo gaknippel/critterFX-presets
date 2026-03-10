@@ -43,7 +43,7 @@
       "aeVersion": "2020 or later",
       "author": "crittercast",
       "description": "apply to solid for fractal noise with a wiggle",
-      "longDescription": "meant to be used with a displacement map to wiggle any object",
+      "longDescription": "place this effect on a black solid, precomp it, and link it to a displacement map, then finally make the solid precomp invisible.",
       "dependencies": ["none"],
       "tags": ["preset", "wiggle", "displacement map", "noise"]
     },
@@ -91,6 +91,21 @@
       "longDescription": "customizable, use slider control in the null object to control speed, and change gradient settings to change color",
       "dependencies": ["none"],
       "tags": ["background", "gradient", "colorful"]
+    },
+    {
+      "id": 7,
+      "name": "count up",
+      "category": "textAnims",
+      "fileName": "countUp.ffx",
+      "downloadUrl": "https://raw.githubusercontent.com/gaknippel/critterFX-presets/main/presets/textAnims/countUp.ffx",
+      "previewGif": "https://raw.githubusercontent.com/gaknippel/critterFX-presets/main/previews/countUp.gif",
+      "fileSize": "17.1 KB",
+      "aeVersion": "2020 or later",
+      "author": "crittercast",
+      "description": "simple count up text animation",
+      "longDescription": "just apply to any text layer. you can change the expression to your preference.",
+      "dependencies": ["none"],
+      "tags": ["text", "numbers", "smooth"]
     }
   ]
 }
