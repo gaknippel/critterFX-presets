@@ -103,7 +103,7 @@
       "aeVersion": "2020 or later",
       "author": "crittercast",
       "description": "simple count up text animation",
-      "longDescription": "just apply to any text layer. you can change the expression to your preference.",
+      "longDescription": "just apply to any text layer. you can change the expression to your preference. use slider control to change the number.",
       "dependencies": ["none"],
       "tags": ["text", "numbers", "smooth"]
     }
